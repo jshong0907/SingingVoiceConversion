@@ -2,7 +2,7 @@
 
 ### Goal
 
-> Change Singer A's voice to Singer B's voice without any 
+> Change Singer A's singing voice to Singer B's singing voice
 
 ### Result
 
